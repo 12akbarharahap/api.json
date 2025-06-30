@@ -1,0 +1,50 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "nama": "Spaghetti Bolognese",
+      "deskripsi": "Spaghetti dengan saus daging sapi cincang khas Italia, tomat, dan rempah.",
+      "harga": 45000,
+      "gambar": "spaghetti-bolognese.png",
+      "kategori": "Beef"
+    },
+    {
+      "id": 2,
+      "nama": "Fettuccine Alfredo",
+      "deskripsi": "Fettuccine dengan saus krim keju parmesan dan ayam.",
+      "harga": 48000,
+      "gambar": "fettuccine-alfredo.png",
+      "kategori": "Chicken"
+    },
+    {
+      "id": 3,
+      "nama": "Lasagna",
+      "deskripsi": "Lapisan pasta, daging, saus tomat, dan keju panggang.",
+      "harga": 50000,
+      "gambar": "lasagna.png",
+      "kategori": "Beef"
+    },
+    {
+      "id": 4,
+      "nama": "Mac & Cheese",
+      "deskripsi": "Pasta makaroni dengan saus keju creamy, cocok untuk anak-anak.",
+      "harga": 42000,
+      "gambar": "mac-cheese.png",
+      "kategori": "Cheese"
+    },
+    {
+      "id": 5,
+      "nama": "Aglio Olio",
+      "deskripsi": "Spaghetti dengan minyak zaitun, bawang putih, dan cabai, sederhana tapi nikmat.",
+      "harga": 40000,
+      "gambar": "aglio-olio.png",
+      "kategori": "Vegetarian"
+    }
+  ],
+  "kategori": [
+    { "id": 1, "nama": "Beef", "deskripsi": "Pasta dengan daging sapi" },
+    { "id": 2, "nama": "Chicken", "deskripsi": "Pasta dengan ayam" },
+    { "id": 3, "nama": "Cheese", "deskripsi": "Pasta dengan keju" },
+    { "id": 4, "nama": "Vegetarian", "deskripsi": "Pasta tanpa daging" }
+  ]
+} 

@@ -1,0 +1,51 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "nama": "Lemon Tea",
+      "deskripsi": "Teh segar dengan perasan lemon, disajikan dingin.",
+      "harga": 15000,
+      "gambar": "lemon-tea.png",
+      "kategori": "Tea"
+    },
+    {
+      "id": 2,
+      "nama": "Es Jeruk",
+      "deskripsi": "Minuman jeruk segar dengan es batu.",
+      "harga": 14000,
+      "gambar": "es-jeruk.png",
+      "kategori": "Juice"
+    },
+    {
+      "id": 3,
+      "nama": "Mineral Water",
+      "deskripsi": "Air mineral botol dingin.",
+      "harga": 10000,
+      "gambar": "mineral-water.png",
+      "kategori": "Water"
+    },
+    {
+      "id": 4,
+      "nama": "Coca Cola",
+      "deskripsi": "Minuman soda dingin.",
+      "harga": 16000,
+      "gambar": "coca-cola.png",
+      "kategori": "Soda"
+    },
+    {
+      "id": 5,
+      "nama": "Milo Dingin",
+      "deskripsi": "Minuman coklat Milo segar dengan es.",
+      "harga": 17000,
+      "gambar": "milo dingin.png",
+      "kategori": "Chocolate"
+    }
+  ],
+  "kategori": [
+    { "id": 1, "nama": "Tea", "deskripsi": "Minuman teh" },
+    { "id": 2, "nama": "Juice", "deskripsi": "Minuman jus buah" },
+    { "id": 3, "nama": "Water", "deskripsi": "Air mineral" },
+    { "id": 4, "nama": "Soda", "deskripsi": "Minuman soda" },
+    { "id": 5, "nama": "Chocolate", "deskripsi": "Minuman coklat" }
+  ]
+} 

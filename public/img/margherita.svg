@@ -1,0 +1,36 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="margheritaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff8e8e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Pizza base -->
+  <circle cx="150" cy="100" r="80" fill="url(#margheritaGradient)" stroke="#e74c3c" stroke-width="3"/>
+  
+  <!-- Pizza slices -->
+  <path d="M150 100 L230 100 A80 80 0 0 1 150 20 Z" fill="#ff4757" opacity="0.3"/>
+  <path d="M150 100 L150 20 A80 80 0 0 1 70 100 Z" fill="#ff4757" opacity="0.3"/>
+  <path d="M150 100 L70 100 A80 80 0 0 1 150 180 Z" fill="#ff4757" opacity="0.3"/>
+  <path d="M150 100 L150 180 A80 80 0 0 1 230 100 Z" fill="#ff4757" opacity="0.3"/>
+  
+  <!-- Tomato sauce base -->
+  <circle cx="150" cy="100" r="60" fill="#ff6347" opacity="0.8"/>
+  
+  <!-- Mozzarella cheese -->
+  <circle cx="130" cy="80" r="12" fill="#fffacd"/>
+  <circle cx="170" cy="120" r="10" fill="#fffacd"/>
+  <circle cx="110" cy="130" r="11" fill="#fffacd"/>
+  <circle cx="190" cy="90" r="9" fill="#fffacd"/>
+  <circle cx="150" cy="70" r="8" fill="#fffacd"/>
+  <circle cx="180" cy="140" r="7" fill="#fffacd"/>
+  
+  <!-- Basil leaves -->
+  <ellipse cx="140" cy="70" rx="4" ry="8" fill="#2ed573" transform="rotate(45 140 70)"/>
+  <ellipse cx="160" cy="110" rx="3" ry="6" fill="#2ed573" transform="rotate(-30 160 110)"/>
+  <ellipse cx="120" cy="110" rx="3.5" ry="7" fill="#2ed573" transform="rotate(60 120 110)"/>
+  
+  <!-- Text -->
+  <text x="150" y="190" text-anchor="middle" fill="#2c3e50" font-family="Arial" font-size="14" font-weight="bold">Margherita</text>
+</svg> 

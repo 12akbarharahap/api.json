@@ -1,0 +1,122 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "nama": "Margherita",
+      "deskripsi": "Pizza klasik dengan saus tomat, mozzarella segar, dan daun basil. Rasa yang sederhana namun lezat dengan keju yang meleleh sempurna.",
+      "harga": 85000,
+      "gambar": "margherita.png",
+      "kategori": "Classic"
+    },
+    {
+      "id": 2,
+      "nama": "Pepperoni",
+      "deskripsi": "Pizza dengan topping pepperoni yang gurih dan pedas, ditambah mozzarella dan saus tomat. Favorit untuk pecinta rasa yang kuat.",
+      "harga": 95000,
+      "gambar": "pepperoni.png",
+      "kategori": "Classic"
+    },
+    {
+      "id": 3,
+      "nama": "BBQ Chicken",
+      "deskripsi": "Pizza dengan ayam panggang yang dibumbui saus BBQ, bawang merah, dan keju mozzarella. Rasa manis dan gurih yang seimbang.",
+      "harga": 105000,
+      "gambar": "bbq-chicken.png",
+      "kategori": "Premium"
+    },
+    {
+      "id": 4,
+      "nama": "Supreme",
+      "deskripsi": "Pizza lengkap dengan pepperoni, sosis, jamur, paprika, bawang merah, dan zaitun hitam. Untuk yang suka topping beragam.",
+      "harga": 120000,
+      "gambar": "supreme.png",
+      "kategori": "Premium"
+    },
+    {
+      "id": 5,
+      "nama": "Hawaiian",
+      "deskripsi": "Kombinasi manis dan gurih dengan ham dan nanas segar. Keju mozzarella yang meleleh melengkapi rasa tropis yang menyegarkan.",
+      "harga": 90000,
+      "gambar": "hawaiian.png",
+      "kategori": "Classic"
+    },
+    {
+      "id": 6,
+      "nama": "Mushroom Delight",
+      "deskripsi": "Pizza vegetarian dengan jamur segar, keju mozzarella, dan saus tomat. Rasa umami yang kaya dan tekstur yang lembut.",
+      "harga": 80000,
+      "gambar": "mushroom-pizza.png",
+      "kategori": "Vegetarian"
+    },
+    {
+      "id": 7,
+      "nama": "Seafood Supreme",
+      "deskripsi": "Pizza dengan udang, cumi-cumi, dan ikan tuna segar. Ditambah keju mozzarella dan saus tomat untuk rasa laut yang autentik.",
+      "harga": 130000,
+      "gambar": "seafood-supreme.png",
+      "kategori": "Premium"
+    },
+    {
+      "id": 8,
+      "nama": "Four Cheese",
+      "deskripsi": "Pizza dengan empat jenis keju: mozzarella, parmesan, gorgonzola, dan ricotta. Surga bagi pecinta keju dengan rasa yang kaya.",
+      "harga": 110000,
+      "gambar": "four-cheese.png",
+      "kategori": "Premium"
+    },
+    {
+      "id": 9,
+      "nama": "Veggie Garden",
+      "deskripsi": "Pizza vegetarian dengan paprika, tomat ceri, zaitun, jamur, dan bawang merah. Warna-warni dan penuh nutrisi.",
+      "harga": 85000,
+      "gambar": "veggie-garden.png",
+      "kategori": "Vegetarian"
+    },
+    {
+      "id": 10,
+      "nama": "Meat Lovers",
+      "deskripsi": "Pizza dengan berbagai daging: pepperoni, sosis, ham, dan bacon. Untuk pecinta daging yang ingin rasa yang kuat dan gurih.",
+      "harga": 125000,
+      "gambar": "meat-lovers.png",
+      "kategori": "Premium"
+    },
+    {
+      "id": 11,
+      "nama": "Buffalo Chicken",
+      "deskripsi": "Pizza dengan ayam yang dibumbui saus buffalo pedas, keju mozzarella, dan saus ranch. Kombinasi pedas dan creamy yang sempurna.",
+      "harga": 100000,
+      "gambar": "buffalo-chicken.png",
+      "kategori": "Spicy"
+    },
+    {
+      "id": 12,
+      "nama": "Truffle Mushroom",
+      "deskripsi": "Pizza premium dengan jamur yang dibumbui truffle oil, keju mozzarella, dan parmesan. Rasa mewah dengan aroma truffle yang khas.",
+      "harga": 140000,
+      "gambar": "truffle-mushroom.png",
+      "kategori": "Premium"
+    }
+  ],
+  "kategori": [
+    {
+      "id": 1,
+      "nama": "Classic",
+      "deskripsi": "Pizza klasik dengan topping tradisional"
+    },
+    {
+      "id": 2,
+      "nama": "Premium",
+      "deskripsi": "Pizza premium dengan bahan berkualitas tinggi"
+    },
+    {
+      "id": 3,
+      "nama": "Vegetarian",
+      "deskripsi": "Pizza vegetarian tanpa daging"
+    },
+    {
+      "id": 4,
+      "nama": "Spicy",
+      "deskripsi": "Pizza dengan rasa pedas"
+    }
+  ]
+} 
